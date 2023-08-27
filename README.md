@@ -1,6 +1,5 @@
 # Data-Projects
- Hi There! This section provides a quick look at my data projects.
- Most of my projects are in the fields of environment and football, and have been created using Excel, Tableau, Python and QGIS.
+ Hi There! This section provides a quick look at my environmental data projects. These projects have been created using Excel, Tableau, Python and QGIS.
 
 List of projects:
 
